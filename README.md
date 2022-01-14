@@ -32,7 +32,7 @@
 <br />
 <br />
 
-<a href="https://github.com/mtuntang?tab=repositories">
+<a href="https://i.pinimg.com/originals/39/55/39/39553931f8be7dd5614b849aeb73dcd9.png">
   <img align="left" src="https://github.com/mtuntang/mtuntang/blob/main/dp%20terry.jfif" height=190 />
 </a>
 
