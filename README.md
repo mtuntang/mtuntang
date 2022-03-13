@@ -1,6 +1,6 @@
 ## Hi👋, I am not a cat🐈
 
-- 🎓 Computer Science student
+- 🎓 Computer Science student in UBC
 - 💻 Tools I use:
   - JavaScript, TypeScript, Java, C/C++, Python, C#, SQL
   - React, React Native, Node.js, Unity, MySQL
