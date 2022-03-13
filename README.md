@@ -3,7 +3,7 @@
 - 🎓 Computer Science student
 - 💻 Tools I use:
   - JavaScript, TypeScript, Java, C/C++, Python, C#, SQL
-  - React, React Native, Node.js, MySQL
+  - React, React Native, Node.js, Unity, MySQL
 - 💼 Experience:
   - Kabam Games (Sept 2021 - Present)
 
