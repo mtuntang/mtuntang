@@ -5,7 +5,7 @@
   - JavaScript, TypeScript, Java, C/C++, Python, C#, SQL
   - React, React Native, Node.js, Unity, MySQL
 - 💼 Experience:
-  - Kabam Games (Sept 2021 - Present)
+  - Kabam Games (Sept 2021 - August 2022)
 
 ### Connect with me:
 
