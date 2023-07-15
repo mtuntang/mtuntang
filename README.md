@@ -1,6 +1,6 @@
-## Hi👋, I am not a cat🐈
+## Hi👋, I am Michael
 
-- 🎓 Computer Science student in UBC
+- 🎓 Recent Computer Science Grad from UBC
 - 💻 Tools I use:
   - JavaScript, TypeScript, Java, C/C++, Python, C#, SQL
   - React, React Native, Node.js, Unity, MySQL
