@@ -3,7 +3,7 @@ My name is Michael and I'm a passionate software developer living in Vancouver. 
 - 🎓 Recent Computer Science Grad from UBC
 - 💻 Tools I use:
   - JavaScript, TypeScript, Java, C/C++, Python, C#, SQL
-  - React, React Native, Node.js, Unity, MySQL
+  - Node.js, Express.js, React, React Native, Unity, MySQL, PostgreSQL
 - 💼 Experience:
   - Kabam Games (Sept 2021 - August 2022)
 
